@@ -1,4 +1,4 @@
-#Resumo BootCamp: Computação em Nuvem com Azure
+# Resumo BootCamp: Computação em Nuvem com Azure
 
 Iniciamos o bootcamp compreendendo a fundação da empresa Microsoft, sua expansão e importância no mercado atual. Avaliada como uma das empresas mais relevantes do setor tecnológico, a Microsoft foi fundada em 1975 e lançou seu primeiro sistema operacional em 1985.
 
