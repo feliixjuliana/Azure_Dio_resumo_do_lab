@@ -1,3 +1,5 @@
+#Resumo BootCamp: Computação em Nuvem com Azure
+
 Iniciamos o bootcamp compreendendo a fundação da empresa Microsoft, sua expansão e importância no mercado atual. Avaliada como uma das empresas mais relevantes do setor tecnológico, a Microsoft foi fundada em 1975 e lançou seu primeiro sistema operacional em 1985.
 
 Com o tempo, a empresa se destacou como pioneira na computação em nuvem, promovendo o acesso universal e o armazenamento remoto. Essa tecnologia também ajudou a manter aplicações disponíveis de forma contínua, evitando quedas frequentes.
@@ -8,7 +10,11 @@ As a Service: O modelo de negócio. Alugar servidores, acesso da internet e arma
 
 Modelos de servidores: On Premise, Ambiente Cloud e Hybrid Model.
 
-# Regions(Local que tem um ou mais DataCenter) & Zones(Conjuntos de datacenters dentro de uma região ).
+# Regions
+Local que tem um ou mais DataCenter
+
+# Zones
+Conjuntos de datacenters dentro de uma região
 
 # Pares de regiões
 
